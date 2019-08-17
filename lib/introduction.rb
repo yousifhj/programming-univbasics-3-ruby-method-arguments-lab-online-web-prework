@@ -1,4 +1,4 @@
-def introduction = (Huda)
+def introduction(name = Huda)
   puts "Hi, my name is #{name}."
 end
 
