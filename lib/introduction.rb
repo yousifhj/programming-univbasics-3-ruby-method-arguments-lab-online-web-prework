@@ -1,7 +1,6 @@
 def introduction= (name)
-put "hello, my name is Huda"
-end
-
+  put "hello, my name is Huda"
+end 
 
 
 
